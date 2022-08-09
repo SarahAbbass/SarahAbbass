@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Sara! 👋
 
 <!--
 **SarahAbbass/SarahAbbass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:woman_technologist: Software Developer intern @CERN
+
+:mortar_board: Computer Engineering student @ AUB
+
+:link: [My LinkedIn!](linkedin.com/in/sara-abbas-2001)
