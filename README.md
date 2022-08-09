@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 :mortar_board: Computer Engineering student @ AUB
 
-:link: [My LinkedIn!](linkedin.com/in/sara-abbas-2001)
+:link: [My LinkedIn!](https://linkedin.com/in/sara-abbas-2001)
