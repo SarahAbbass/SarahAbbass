@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:woman_technologist: Software Developer intern @CERN
+:woman_technologist: Software Developer Intern @CERN
 
 :mortar_board: Computer Engineering student @ AUB
 
